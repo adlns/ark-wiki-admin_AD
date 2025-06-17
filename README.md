@@ -1,2 +1,3 @@
-# ark-wiki-admin_AD
-Wiki ARK FR - commandes admin
+# ARK Wiki Admin
+
+Wiki francophone pour les commandes admin d'ARK: Survival Evolved.
